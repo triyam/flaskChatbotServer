@@ -10,3 +10,5 @@ def home():
 def about():
     return "About!"
 
+if __name__ == '__main__':
+    app.run()
